@@ -2,6 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khebinsd&label=Profile%20views&color=0e75b6&style=flat" alt="khebinsd" /> </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/khebinSd/count.svg" />
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khebinsd" alt="khebinsd" /></a> </p>
 
 - 🔭 I’m currently working on **Kruger Star**
