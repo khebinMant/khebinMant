@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Mantilla</h1>
 
 <div style="display:flex; flex-direction:row, widht:100%">
-  <p align="center"> 
+  <p style="font-size:50px" align="center"> 
     Visitor count<br>
     <p  align="center"> <img src="https://komarev.com/ghpvc/?username=khebinsd&label=Profile%20views&color=0e75b6&style=flat" alt="khebinsd" /> </p>
   </p>
