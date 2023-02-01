@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Mantilla</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khebinsd&label=Profile%20views&color=0e75b6&style=flat" alt="khebinsd" /> </p>
 
 <p align="center"> 
   Visitor count<br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=khebinsd&label=Profile%20views&color=0e75b6&style=flat" alt="khebinsd" /> </p>
   <img src="https://profile-counter.glitch.me/khebinSd/count.svg" />
 </p>
 
