@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevin Mantilla</h1>
 
-
+<div style="display:flex; flex-direction:row, widht:100%">
 <p align="center"> 
   Visitor count<br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=khebinsd&label=Profile%20views&color=0e75b6&style=flat" alt="khebinsd" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=khebinsd&label=Profile%20views&color=0e75b6&style=flat" alt="khebinsd" /> </p>
   <img src="https://profile-counter.glitch.me/khebinSd/count.svg" />
 </p>
+</div>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khebinsd" alt="khebinsd" /></a> </p>
