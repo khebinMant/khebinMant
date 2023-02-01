@@ -4,7 +4,7 @@
 <p align="center"> 
   Visitor count<br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=khebinsd&label=Profile%20views&color=0e75b6&style=flat" alt="khebinsd" /> </p>
-  <img src="https://profile-counter.glitch.me/khebinSd/count.svg" />
+  <img  align="center" src="https://profile-counter.glitch.me/khebinSd/count.svg" />
 </p>
 </div>
 
